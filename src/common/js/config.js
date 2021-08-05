@@ -1,2 +1,5 @@
-export const CesiumIonDefaultAccessToken = "Cesium Token"
-export const TianDiTuToken = "天地图token"
+export const CesiumIonDefaultAccessToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI2YmRiNjM4MC1kMDZkLTQ2NDQtYjQ3My0xZDI4MDU0MGJhZDciLCJpZCI6MzIxMzAsInNjb3BlcyI6WyJhc3IiLCJnYyJdLCJpYXQiOjE1OTY1MjM4NzZ9.A3FBZ6HjKkTsOGnjwWWeO9L10HQ9c-wcF4c3dtTc4gQ"
+export const TianDiTuToken = "2ec220dbc0d7c39975ea06c3a7ff627a"
+
+// export const CesiumIonDefaultAccessToken = "Cesium Token"
+// export const TianDiTuToken = "天地图token"

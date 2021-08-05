@@ -21,6 +21,8 @@ export default {
       sceneModePicker: true, // 是否显示投影方式控件
       navigationHelpButton: false, // 是否显示帮助信息控件
       infoBox: true, // 是否显示点击要素之后显示的信息
+      fullscreenButton: false, // 是否显示全屏按钮
+      CreditsDisplay: false, // 是否显示版权信息
       imageryProvider: new Cesium.WebMapTileServiceImageryProvider({
         url:
           `http://t0.tianditu.com/img_w/wmts?service=wmts&request=GetTile&version=1.0.0&LAYER=img&tileMatrixSet=w&TileMatrix={TileMatrix}&TileRow={TileRow}&TileCol={TileCol}&style=default&format=tiles&tk=${TianDiTuToken}`,

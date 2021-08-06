@@ -7,8 +7,8 @@ npm install
 ```
 
 补全`src/common/js/config.js`中的`Token`信息：
-- `CesiumIonDefaultAccessToken`：前往https://cesium.com/中注册账号，并且创建`Token`；
-- `TianDiTuToken`：前往https://uums.tianditu.gov.cn/register中注册账号，并且创建`Token`。
+- `CesiumIonDefaultAccessToken`：前往 https://cesium.com/ 中注册账号，并且创建`Token`；
+- `TianDiTuToken`：前往 https://uums.tianditu.gov.cn/register 中注册账号，并且创建`Token`。
 
 ### 编译
 ```

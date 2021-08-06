@@ -1,19 +1,21 @@
 # vue-cesium-template
+一个基于Vue的简易Cesium开发模板
 
-## Project setup
+## 项目初始化
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+补全`src/common/js/config.js`中的`Token`信息：
+- `CesiumIonDefaultAccessToken`：前往https://cesium.com/中注册账号，并且创建`Token`；
+- `TianDiTuToken`：前往https://uums.tianditu.gov.cn/register中注册账号，并且创建`Token`。
+
+### 编译
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
